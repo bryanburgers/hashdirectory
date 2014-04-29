@@ -1,0 +1,29 @@
+{
+  "name": "hashdirectory",
+  "version": "0.1.0",
+  "description": "Create an sha1 hash sum from a directory of files using the git algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bryanburgers/hashdirectory"
+  },
+  "keywords": [
+    "directory",
+    "folder",
+    "hash",
+    "cache",
+    "bust",
+    "sha",
+    "sha1",
+    "git"
+  ],
+  "author": "Bryan Burgers <bryan@burgers.io> (http://burgers.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanburgers/hashdirectory/issues"
+  },
+  "homepage": "https://github.com/bryanburgers/hashdirectory"
+}
