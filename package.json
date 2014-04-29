@@ -28,5 +28,8 @@
   "homepage": "https://github.com/bryanburgers/hashdirectory",
   "devDependencies": {
     "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "q": "^1.0.1"
   }
 }
