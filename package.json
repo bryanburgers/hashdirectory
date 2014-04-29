@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/bryanburgers/hashdirectory/issues"
   },
-  "homepage": "https://github.com/bryanburgers/hashdirectory"
+  "homepage": "https://github.com/bryanburgers/hashdirectory",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
 }
